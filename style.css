@@ -33,7 +33,7 @@ img{
 }
 h1{
     font-size: 100px;
-    margin-left: 100px;
+    margin-left: 110px;
     position: relative;
     bottom: 130px;
 }
@@ -50,7 +50,7 @@ h2{
     font-size: 65px;
     position: relative;
     bottom: 120px;
-    left: 40px;
+    left: 20px;
 }
 p{
     width: 550px;
